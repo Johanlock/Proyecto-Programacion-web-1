@@ -1,0 +1,80 @@
+﻿@model List<Proyecto_RRHH__Datos_.Models.Empleados>
+@{
+    Layout = "~/Views/Shared/_StartLayout.cshtml";
+}
+
+<div class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card card-plain">
+                    <div class="card-header card-header-success">
+                        <h4 class="card-title mt-0">Candidatos</h4>
+                        <p class="card-category">Lista de candidatos</p>
+                    </div>
+                    <form class="navbar-form" asp-action="Index" asp-controller="Empleados" method="post">
+                        <div class="Filters">
+                            <div class="form-group col-md-4">
+                                <label class="bmd-label-floating">Estados</label>
+                                <select class="form-control" name="estado">
+                                    <option value="">Ninguna</option>
+                                </select>
+                            </div>
+                            <div class="form-group col-md-4">
+                                <label class="bmd-label-floating">Vacante</label>
+                                <select class="form-control" name="vacante">
+                                    <option value="">Ninguna</option>
+                                </select>
+                            </div>
+                            <button type="submit" class="btn btn-white btn-round btn-just-icon">
+                                <i class="material-icons">search</i>
+                                <div class="ripple-container"></div>
+                            </button>
+                        </div>
+
+                    </form>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead class="text-success">
+                                <th>Codigo Empleado</th>
+                                <th>Cedula</th>
+                                <th>Nombre</th>
+                                <th>Puesto</th>
+                                <th>Estado</th>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                @item.CodigoEmpleador
+                                            </td>
+                                            <td>
+                                                @item.Cedula
+                                            </td>
+                                            <td>
+                                                @item.Nombre
+                                            </td>
+                                            <td>
+                                                @item.PuestoNavigation.Descripcion
+                                            </td>
+                                            <td>
+                                                @item.EstadoNavigation.Descripcion
+                                            </td>
+                                            <td class="td-actions text-right">
+                                                <a rel="tooltip" title="Editar" asp-controller="Empleados" asp-action="Details" asp-route-id="@item.CodigoEmpleador" class="btn btn-primary btn-link btn-sm">
+                                                    <i class="material-icons">visibility</i>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

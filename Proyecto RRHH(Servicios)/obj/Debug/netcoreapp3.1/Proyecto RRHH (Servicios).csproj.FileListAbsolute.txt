@@ -1,0 +1,64 @@
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).exe
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\obj\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).csprojAssemblyReference.cache
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\obj\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\obj\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).AssemblyInfo.cs
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\obj\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).RazorTargetAssemblyInfo.cache
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto RRHH (Servicios).StaticWebAssets.Manifest.cache
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\obj\Debug\netcoreapp3.1\staticwebassets\Proyecto RRHH (Servicios).StaticWebAssets.xml
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\obj\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).csproj.CopyComplete
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).deps.json
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).runtimeconfig.json
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).runtimeconfig.dev.json
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).pdb
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\obj\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\obj\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\obj\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\obj\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).pdb
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\obj\Debug\netcoreapp3.1\Proyecto RRHH (Servicios).genruntimeconfig.cache
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Proyecto RRHH (Datos).exe
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Proyecto RRHH (Datos).dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH(Servicios)\bin\Debug\netcoreapp3.1\Proyecto RRHH (Datos).pdb
