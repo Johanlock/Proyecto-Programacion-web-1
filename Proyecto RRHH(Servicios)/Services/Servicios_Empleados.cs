@@ -23,6 +23,13 @@ namespace Proyecto_RRHH_Servicios_.Services
             return DB.Empleados.Include(x => x.PuestoNavigation).Include(x => x.EstadoNavigation).ToList();
         }
 
+        public List<Empleados> ConsultaPorFeccha(DateTime fechainicial, DateTime fechafinal)
+        {
+
+            DateTime fechafinalD = fechafinal;
+            var fechainicialD = fechainicial.ToString("dd/mm/yyyy");
+            return DB.Empleados.Include(x => x.PuestoNavigation).Include(x => x.EstadoNavigation).Where(x=>x.FechaIngreso >= fechainicial).Where(x=>x.FechaIngreso <= fechafinal).ToList();
+        }
         public Empleados ConsultaPorCodigo(int id)
         {
             return DB.Empleados.Include(x=>x.PuestoNavigation).Include(x => x.EstadoNavigation).FirstOrDefault(x=>x.CodigoEmpleador == id);

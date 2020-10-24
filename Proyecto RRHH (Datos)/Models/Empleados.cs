@@ -10,7 +10,7 @@ namespace Proyecto_RRHH__Datos_.Models
         public string Cedula { get; set; }
         public string Nombre { get; set; }
         [DataType(DataType.Date)]
-        [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}", ApplyFormatInEditMode = true)]
+        [DisplayFormat(DataFormatString = "{0:mm/dd/yyyy}", ApplyFormatInEditMode = true)]
         public DateTime FechaIngreso { get; set; }
         public int Puesto { get; set; }
         public int? Estado { get; set; }

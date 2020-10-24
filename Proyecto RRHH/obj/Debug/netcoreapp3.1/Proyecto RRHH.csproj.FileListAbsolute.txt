@@ -68,8 +68,6 @@ C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\bin\Debug\netcoreapp3.1\Proyect
 C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\bin\Debug\netcoreapp3.1\Proyecto RRHH.Views.dll
 C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\bin\Debug\netcoreapp3.1\Proyecto RRHH.Views.pdb
 C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\obj\Debug\netcoreapp3.1\Proyecto RRHH.csproj.CoreCompileInputs.cache
-C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\obj\Debug\netcoreapp3.1\Proyecto RRHH.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\obj\Debug\netcoreapp3.1\Proyecto RRHH.Views.pdb
 C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\obj\Debug\netcoreapp3.1\Proyecto RRHH.dll
 C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\obj\Debug\netcoreapp3.1\Proyecto RRHH.pdb
@@ -90,3 +88,9 @@ C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\obj\Debug\netcoreapp3.1\Razor\V
 C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\obj\Debug\netcoreapp3.1\Razor\Views\Empleados\Details.cshtml.g.cs
 C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\obj\Debug\netcoreapp3.1\Razor\Views\Empleados\Index.cshtml.g.cs
 C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\obj\Debug\netcoreapp3.1\Razor\Views\HomeCandidato\Index.cshtml.g.cs
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\obj\Debug\netcoreapp3.1\Proyecto RRHH.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\Proyecto RRHH\Proyecto RRHH\obj\Debug\netcoreapp3.1\Proyecto RRHH.MvcApplicationPartsAssemblyInfo.cache
